@@ -1,4 +1,21 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fe6560,30:d09be6,100:a2e6f5&height=300&&animation=twinkling&section=header&text=🥰%20Soieu's%20GitHub&fontSize=90&fontAlignY=40&fontColor=ffffff&stroke=d09be6)
+
+<div align='center'>
+
+### 🛠🛠 만드는중.. 개귀찬...🛠🛠
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soieu)](https://solved.ac/soieu)
+
+### 🛠 I’ve used at least once ...
+<img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+
+### 🌱 I’m currently learning ...
+<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=java&logoColor=white"/>
+</div>
+
 
 <!--
 **soieu/soieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +30,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://shields.io
+- https://github.com/rzashakeri/beautify-github-profile
 -->
