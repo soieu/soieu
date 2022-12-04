@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
 
