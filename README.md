@@ -3,7 +3,6 @@
 
 <div align='center'>
 
-### 🛠🛠 만드는중.. 개귀찬...🛠🛠
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soieu)](https://solved.ac/soieu)
 
