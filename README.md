@@ -8,7 +8,7 @@
 
 
 ### My Blog ###
-[![SOIEU](https://www.soieu.net/)]
+[[SOIEU](https://www.soieu.net/)]
 ### 🛠 I’ve used at least once ...
 <img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
